@@ -1,0 +1,13 @@
+C:\Users\garle\source\repos\Tarea.No2\Tarea.No2\bin\Debug\Tarea.No2.exe.config
+C:\Users\garle\source\repos\Tarea.No2\Tarea.No2\bin\Debug\Tarea.No2.exe
+C:\Users\garle\source\repos\Tarea.No2\Tarea.No2\bin\Debug\Tarea.No2.pdb
+C:\Users\garle\source\repos\Tarea.No2\Tarea.No2\bin\Debug\Tarea.No2.xml
+C:\Users\garle\source\repos\Tarea.No2\Tarea.No2\obj\Debug\Tarea.No2.vbproj.AssemblyReference.cache
+C:\Users\garle\source\repos\Tarea.No2\Tarea.No2\obj\Debug\Tarea.No2.vbproj.SuggestedBindingRedirects.cache
+C:\Users\garle\source\repos\Tarea.No2\Tarea.No2\obj\Debug\Tarea.No2.Resources.resources
+C:\Users\garle\source\repos\Tarea.No2\Tarea.No2\obj\Debug\Tarea.No2.vbproj.GenerateResource.cache
+C:\Users\garle\source\repos\Tarea.No2\Tarea.No2\obj\Debug\Tarea.No2.vbproj.CoreCompileInputs.cache
+C:\Users\garle\source\repos\Tarea.No2\Tarea.No2\obj\Debug\Tarea.No2.exe
+C:\Users\garle\source\repos\Tarea.No2\Tarea.No2\obj\Debug\Tarea.No2.xml
+C:\Users\garle\source\repos\Tarea.No2\Tarea.No2\obj\Debug\Tarea.No2.pdb
+C:\Users\garle\source\repos\Tarea.No2\Tarea.No2\obj\Debug\Tarea.No2.Form1.resources
